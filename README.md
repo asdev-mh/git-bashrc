@@ -1,6 +1,7 @@
 # git-bashrc
 use a bashrc for faster commandline
 
+Create File .bashrc in C:\User\USERNAME\
 
 ```bash
 # Start SSH Agent
